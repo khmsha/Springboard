@@ -1,0 +1,42 @@
+1.	All Lending club loan data
+2007 through current Lending Club accepted and rejected loan data
+What are the factors affecting loan acceptance and rejection? 
+what are the different types loan?
+
+2.	HDMA Washington State Home Loans, 2016
+Data on 466,566 home loans in Washington state
+Current trends? Factors affecting loan approval decisions? 
+Is there any area, demographic or gender bias? 
+Predict loan decisions
+
+3.	Credit Card Fraud Detection
+Anonymized credit card transactions labeled as fraudulent or genuine
+Identify fraudulent credit card transactions
+
+4.	Allstate Claims Severity
+How severe is an insurance claim?
+
+5.	Medicare Data
+Medicare Data (BigQuery Dataset)
+Charge variation with respect to item category, procedure and service, physician and location?
+What is the total number of medications prescribed in each state?
+What is the most prescribed medication in each state?
+What is the average cost for inpatient and outpatient treatment in each city and state?
+Which are the most common inpatient diagnostic conditions in the United States?
+Which cities have the most number of cases for each diagnostic condition?
+What are the average payments for these conditions in these cities and how do they compare to the national average?
+
+6.	Medical Cost Personal Datasets
+Insurance Forecast by using Linear Regression
+Medical Cost Personal Datasets---Predict insurance costs
+
+7.	Black Friday Sales (analytics Vidhya)
+To understand the customer purchase behavior (specifically, purchase amount) against various products of different categories. 
+What are the most selling category of products? How is the purchase volume spread in each category? 
+Build a discount model for each category of products.
+Build a model to predict the purchase amount of customer against various products which will help to create personalized offer for customers against different products
+
+8.	Loan Prediction (analytics Vidhya)
+Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
+
+
